@@ -1,0 +1,5 @@
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\DZ4_4_2\obj\Debug\net6.0\DZ4_4_2.csproj.AssemblyReference.cache
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\DZ4_4_2\obj\Debug\net6.0\DZ4_4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\DZ4_4_2\obj\Debug\net6.0\DZ4_4_2.AssemblyInfoInputs.cache
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\DZ4_4_2\obj\Debug\net6.0\DZ4_4_2.AssemblyInfo.cs
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\DZ4_4_2\obj\Debug\net6.0\DZ4_4_2.csproj.CoreCompileInputs.cache

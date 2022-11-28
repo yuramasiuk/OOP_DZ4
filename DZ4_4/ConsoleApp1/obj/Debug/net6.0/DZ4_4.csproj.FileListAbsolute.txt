@@ -1,0 +1,15 @@
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\bin\Debug\net6.0\DZ4_4.exe
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\bin\Debug\net6.0\DZ4_4.deps.json
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\bin\Debug\net6.0\DZ4_4.runtimeconfig.json
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\bin\Debug\net6.0\DZ4_4.dll
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\bin\Debug\net6.0\DZ4_4.pdb
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\obj\Debug\net6.0\DZ4_4.csproj.AssemblyReference.cache
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\obj\Debug\net6.0\DZ4_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\obj\Debug\net6.0\DZ4_4.AssemblyInfoInputs.cache
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\obj\Debug\net6.0\DZ4_4.AssemblyInfo.cs
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\obj\Debug\net6.0\DZ4_4.csproj.CoreCompileInputs.cache
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\obj\Debug\net6.0\DZ4_4.dll
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\obj\Debug\net6.0\refint\DZ4_4.dll
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\obj\Debug\net6.0\DZ4_4.pdb
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\obj\Debug\net6.0\DZ4_4.genruntimeconfig.cache
+C:\Yura\KNU\OOP\ДЗ 4\DZ4_4\ConsoleApp1\obj\Debug\net6.0\ref\DZ4_4.dll
